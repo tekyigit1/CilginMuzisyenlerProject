@@ -1,0 +1,6 @@
+@CilginMuzisyenlerProject_HostAddress = http://localhost:5103
+
+GET {{CilginMuzisyenlerProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
